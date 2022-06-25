@@ -1,5 +1,5 @@
 1. SELECT * FROM CoffeShop WHERE Product = 'Latte' OR Product = 'Long Black' AND City NOT IN 'Philadelphia'
 
-2. SELECT Product FROM CoffeShop WHERE CustomerRef = 'thompson_86' AND CustomerRef = 'mark taylor_113'
+2. SELECT Product FROM CoffeShop WHERE CustomerRef = 'thompson_86' OR CustomerRef = 'mark taylor_113'
 
-3. SELECT City WHERE Product = 'Capuccino' AND Product = 'Flat White'
+3. SELECT City WHERE Product = 'Capuccino' OR Product = 'Flat White'
