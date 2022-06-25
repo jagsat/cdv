@@ -1,0 +1,11 @@
+# Egzamin
+
+## polecenia do gita:
+
+`git status` - sprawdza stan repozytorium
+
+`git add .` - dodanie wszystkich brakujących plików
+
+`git commit -m "message"` - zacommitowanie/potwierdzenie zmian z wiadomością je opisującą
+
+`git push origin master` - wypchnięcie ich do master brancha
